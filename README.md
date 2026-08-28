@@ -1,142 +1,116 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b"/>
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b)](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b)
 
 # Hi, I'm Jerine 👋
-
 ### M.Sc. Artificial Intelligence & Cybersecurity Student
 
 Building things around **AI, Cybersecurity, IoT, and Python**.
 
 - 🎓 CHRIST (Deemed to be University), Bengaluru
-- 🔐 Interested in Cybersecurity & Wireless Security
+- 🔐 Penetration Testing, VAPT & Wireless Security
+- 🎯 Actively solving CTF machines on **Hack The Box**
 - 🤖 Exploring Machine Learning and AI
 - 🐍 Python Enthusiast
 - 🌱 Currently learning Deep Learning and Advanced Security
 - 📍 Bengaluru, India
+- 📄 [My Resume](https://github.com/Jerine6362/Jerine6362/blob/main/Jerine_Christ_Resume.pdf)
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,kali,mysql,github,vscode,html,css,javascript" />
-</p>
+![](https://skillicons.dev/icons?i=python,linux,kali,mysql,github,vscode,html,css,javascript)
 
 ---
 
 ## 🔐 Cybersecurity Toolkit
 
-<p align="center">
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/ESP32-IoT-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/VAPT-Learning-success?style=flat-square"/>
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-Learning-success?style=flat-square)
+![HTB](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 T-800 — Dual-Engine VAPT Automation Framework
+Full-stack vulnerability assessment & penetration testing platform.
+- Windows engine (passive/API-based: Shodan, crt.sh, NVD, Vulners, WPScan API)
+- Kali Linux engine (native: Nmap, Nikto, WPScan CLI, SSLyze)
+- CVE correlation, consent-gate authorization, WAF-conditional scan intensity
+- FastAPI backend + React frontend, PDF reporting
+
+## 🦇 ARKHAM — Async Reconnaissance Platform
+16-module asynchronous recon platform for footprinting, subdomain enumeration & vulnerability discovery.
+- WebSocket live scan streaming
+- Multi-format (PDF/JSON/HTML) automated reporting
+- Deployed on Render (backend) + Vercel (frontend)
+- Python, FastAPI, React/TypeScript
+
+## 🎯 Hack The Box — CTF Progress
+Actively solving HTB machines (beginner → intermediate), practicing:
+- Enumeration-first methodology
+- IDOR exploitation, SQLi, privilege escalation (GTFOBins)
+- pcap/traffic analysis
+- Structured post-exploitation reporting
+
 ## 🔒 Web Application Security Lab
 Security testing using DVWA and Burp Suite.
-
-- SQL Injection
-- XSS
-- CSRF
-- Command Injection
-- HTTP Traffic Analysis
-
----
-
-## 🌐 Linux & Network Security Practice
-
-- Kali Linux
-- Linux CLI
-- Network Analysis
-- Reconnaissance
-- Penetration Testing Methodologies
-
----
+- SQL Injection · XSS · CSRF · Command Injection
+- HTTP Traffic Analysis & documented mitigations
 
 ## 📡 IoT & Wireless Security Research
+- ESP32, RFID, NFC (PN532, RC522), CC1101, NRF24L01
+- WiFi & Bluetooth Security · Packet Analysis · Embedded Systems
 
-- ESP32
-- RFID
-- WiFi Security
-- Bluetooth Security
-- Packet Analysis
-- Embedded Systems
+## 🛡️ LOCKDOWN — Android Malware/Spyware Detection
+Correlation-before-verdict architecture across four detection modules:
+- Permission Analyzer · Accessibility Auditor · Network Analyzer · APK Static Analyzer
+- Kotlin, Jetpack Compose
 
----
+## 🌐 Linux & Network Security Practice
+- Kali Linux · Linux CLI · Network Analysis · Reconnaissance · Pentest Methodologies
 
 ## 🤖 AI & Machine Learning
-
-- Classification Models
-- MLP
-- Data Analysis
-- Scikit-Learn
-- TensorFlow
-- Python
-
----
-
-## 📱 Android Development
-
-Building mobile applications using:
-
-- Kotlin
-- Firebase
-- Android Studio
+- Classification Models · MLP · Scikit-Learn · TensorFlow · Data Analysis
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jerine6362&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerine6362&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Jerine6362&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerine6362&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Streak Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Jerine6362&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://streak-stats.demolab.com?user=Jerine6362&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerine6362&theme=tokyo-night&hide_border=true"/>
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Jerine6362&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jerine6362&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Jerine6362&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/jerine-c-binu">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jerine.c@msaic.christuniversity.in">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jerine-c-binu)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jerine.c@msaic.christuniversity.in)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=readdotcv)](https://github.com/Jerine6362/Jerine6362/blob/main/Jerine_Christ_Resume.pdf)
 
 ---
 
 > *Building things, breaking things, and understanding why they work.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:1e293b"/>
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:1e293b)](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:1e293b)
