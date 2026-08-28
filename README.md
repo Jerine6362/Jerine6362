@@ -18,7 +18,7 @@ Building things around **AI, Cybersecurity, IoT, and Python**.
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,kali,mysql,git,github,vscode,androidstudio,html,css,javascript,flask,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,linux,kali,mysql,github,vscode,html,css,javascript" />
 </p>
 
 ---
